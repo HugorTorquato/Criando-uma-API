@@ -1,0 +1,27 @@
+
+
+Criando uma API de flmes em cartaz usando Python e Heroku
+
+ -> serviço REST que retorna um JSON com a lista de filmes em cartaz nos cinemas brasileiros
+
+ -> Missão:
+    1-> lista publica e de fácil acesso
+    2-> Preparar o ambiente com VsCode, Python e módulos necessários
+    3-> Código web do flash
+    4-> Fazer o parse do HTML da fonte usando Python para separar apenas as informações pertinentes
+    5-> Transmitir essa saída em um JSON
+    6-> Disponibilizar o código no github
+    7-> Publicar no Heouk para acesso público
+
+https://codigosimples.net/2017/05/15/criando-uma-api-de-filmes-em-cartaz-usando-python-e-heroku/
+
+-> VS usando Python -> https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites
+
+1->>>>>>>>>>>>>>>>>>>>>>>>....
+
+    http://www.adorocinema.com/
+
+2->>>>>>>>>>>>>>>>>>>>>>>>....
+
+    Biblioteca que será utilizada
+
